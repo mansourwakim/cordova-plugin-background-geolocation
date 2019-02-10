@@ -1,4 +1,5 @@
-# cordova-plugin-mauron85-background-geolocation
+# cordova-plugin-mansourwakim-background-geolocation
+### Forked from mauron85/cordova-plugin-background-geolocation
 
 # Breaking changes
 
